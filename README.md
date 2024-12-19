@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-
+<!--
 **Praveen-M54/Praveen-M54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 <!--
 ### GitHub Stats
@@ -20,3 +19,7 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Praveen-M54&theme=dark&hide_border=true&ring_color=0088ff)
 -->
+
+- 🔭 I’m currently exploring Deep Learning and Computer Vision projects.
+- 📚 I’m fascinated by how machines can understand images and videos like humans.
+- ⚡ Fun Fact: Training machines to see the world... still waiting for them to recognize my face without panicking.
