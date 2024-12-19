@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Praveen-M54/Praveen-M54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<!--
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen-M54&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&ring_color=0088ff)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Praveen-M54&theme=dark&hide_border=true&ring_color=0088ff)
-
+-->
